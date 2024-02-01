@@ -57,7 +57,9 @@ body{
     margin-left: 12px;
 
 }
-
+.head3:hover{
+    color: #f4d04e;
+}
 .head4{
     color: hsl(0, 0%, 50%);
     font-family: Arial, Helvetica, sans-serif;
