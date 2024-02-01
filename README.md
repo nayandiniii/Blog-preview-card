@@ -6,6 +6,8 @@ Welcome to the Blog Preview Card frontend project! This project showcases a beau
 
 ![Blog Preview Card](./desktop-design.png)
 
+[Live](https://nayandiniii.github.io/Blog-preview-card/)
+
 ## Features ✨
 
 - Stunning and responsive design
