@@ -1,0 +1,85 @@
+@font-face {
+    font-family: fig;
+    src: url('blog-preview-card-main/assets/fonts/static/Figtree-ExtraBold.ttf');
+}
+
+body{
+    background-color: #f4d04e;
+}
+
+.container{
+    width: 300px;
+    height: 400px;
+    margin: 50px auto; /* Updated margin to center horizontally */
+    outline: solid 1px black;
+    background-color: hsl(0, 0%, 100%);
+    display: grid;
+    justify-content: center;
+    align-items: center; /* Updated to center vertically */
+    border-radius: 15px;
+    box-shadow: 13px 13px 0 black;
+}
+
+.head1
+{
+    font-family: fig;
+    border: 2px solid #f4d04e;
+    margin-left: 12px;
+    box-sizing: content-box;
+}
+
+.button1{
+    height: 23px;
+    width: fit-content;
+    background-color: #f4d04e;
+    border: 2px solid #f4d04e;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-left: 12px;
+    align-self: first baseline;
+    margin-top: -17px;
+}
+
+.head2{
+    font-size: 11px;
+    margin-top: -20px;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.head3{
+    font-size: 18px;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-left: 12px;
+
+}
+
+.head4{
+    color: hsl(0, 0%, 50%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 12px;
+    margin-top: -30px;
+}
+
+.left{
+    float: left;
+    margin-left: 12px;
+}
+.right{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head6{
+    font-size: 11px;
+    margin-top: -28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    margin-left: 48px;
+
+}
